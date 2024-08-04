@@ -14,7 +14,9 @@ About Page:
 
 Gallery and Footer Page:
 ![image](https://github.com/RomeloDev/BINI-FanMade-Website/blob/main/Screenshot/gallery1.png)
+
 ![image](https://github.com/RomeloDev/BINI-FanMade-Website/blob/main/Screenshot/gallery2.png)
+
 ![image](https://github.com/RomeloDev/BINI-FanMade-Website/blob/main/Screenshot/gallery3.png)
 
 ## Video Demo:
