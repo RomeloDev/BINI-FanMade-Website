@@ -2,8 +2,7 @@
 
 ## Introduction
 
-This is just a fanmade website of the girl group called BINI from Philippines. 
-I made this website using HTML, CSS, and Javascript.
+This repository, created by RomeloDev, showcases a fanmade website dedicated to the girl group BINI from the Philippines. The website was built using HTML, CSS, and JavaScript, serving as a practice ground for basic web development skills. You can explore the code and design on the GitHub page.
 
 ## ScreenShots:
 
