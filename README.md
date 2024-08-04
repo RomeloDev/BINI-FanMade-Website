@@ -26,5 +26,5 @@ You can watch the actual video demonstration through link below:
 You can clone this repository using the following command:
 
 ``` bash
-
+git clone https://github.com/RomeloDev/BINI-FanMade-Website.git
 ```
