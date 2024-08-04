@@ -7,10 +7,15 @@ This repository, created by RomeloDev, showcases a fanmade website dedicated to 
 ## ScreenShots:
 
 Home Page:
+![image](https://github.com/RomeloDev/BINI-FanMade-Website/blob/main/Screenshot/homepage.png)
 
 About Page:
+![image](https://github.com/RomeloDev/BINI-FanMade-Website/blob/main/Screenshot/aboutpage.png)
 
-Gallery Page:
+Gallery and Footer Page:
+![image](https://github.com/RomeloDev/BINI-FanMade-Website/blob/main/Screenshot/gallery1.png)
+![image](https://github.com/RomeloDev/BINI-FanMade-Website/blob/main/Screenshot/gallery2.png)
+![image](https://github.com/RomeloDev/BINI-FanMade-Website/blob/main/Screenshot/gallery3.png)
 
 ## Video Demo:
 
